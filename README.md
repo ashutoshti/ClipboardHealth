@@ -25,6 +25,7 @@ Now This Code Can Run on the Chrome Browser as well as The FireFox
     then he/she just needs to change the brand name in the Feature File.
   
 # Framework Description:- 
+![img_1.png](img_1.png)
 1. src>main>java
    1. driver{package}:- 
       1. Driverfactory:-Its Contains all the information related to the driver. Which Browser need to invoke.
@@ -48,3 +49,13 @@ Now This Code Can Run on the Chrome Browser as well as The FireFox
    1. config{Folder}: - This Folder contains the property file having the browser name.
    2. Executable_Driver:- This Folder contains all the driver exe which helpful to run the code on the browser.
    3. Feature:- This Folder contains all the feature of the Project Which helps all the members which wants to see the automation process. This File written in the Gherkin Langauage which means the normal English Language such as Given, When, Then, And etc.
+
+# Cucumber Report
+   When the execution Complete wheater its Pass or Fail then in the console the Cucumber Report Which the Step Which is passed or where the automation script is failed with the screenshot.
+   ![img_2.png](img_2.png)
+   
+URL Open in the Browser
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+
+URL:- https://reports.cucumber.io/reports/fd1588be-2418-416d-b432-c14d6014fe70
