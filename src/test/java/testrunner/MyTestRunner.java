@@ -15,7 +15,6 @@ import io.cucumber.junit.CucumberOptions;
        /*plugin = {"pretty",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
                 "timeline:test-output-thread/"}*/
-
 )
 
 public class MyTestRunner {
